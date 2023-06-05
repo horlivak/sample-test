@@ -1,6 +1,4 @@
-# Shipmonk API
-
-Shipmonk task
+# Sample test
 
 ## Install
 ``` composer install ```
