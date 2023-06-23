@@ -1,4 +1,5 @@
 # Sample test
+Implementation of sorted linked list
 
 ## Install
 ``` composer install ```
